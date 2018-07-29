@@ -1,47 +1,27 @@
-  .flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    
-  }
-  
-  .flex-container > div {
-    background-color: #f1f1f1;
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    /* line-height: 75px; */
-    font-size: 30px;
-  }
+.Jumbotron{
+;
+    background: url(http://i66.tinypic.com/28am9fs.jpg);
+    background-color: rgba(0, 0, 0, 0);
+    background-size: auto auto;
+    color: #fff;
+    background-size: cover;
+    }
 
-  
+    .card:hover
+    {
+      cursor: pointer;
+      box-shadow: 0 10px 60px rgba(0,0,0,0.3), 0 6px 15px rgba(0,0,0,0.3);
+      box-sizing: border-box;
+    }
 
-  .centerKon{
-    position: relative;
-  }
-
-.formk{
-  left: 50%;
-    top: 50%;
-    margin-left: -30%;
-    position: absolute;
-    margin-top: 70%;
-    margin-bottom: 30%
-}
-
-.Aligner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.Aligner-item {
-  padding-top: 50%;
-}
-
-.list
-{
-  background: blue;
-  width: 100%;
-  height: 100%;
-}
+    .kaki
+    {
+       border-top: 1px solid rgb(231, 231, 231); 
+       text-align: center;
+       padding: 20px; 
+       left: 0px; 
+       bottom: 0px; 
+       height: 60px; 
+       width: 100%; 
+       color: rgb(108, 117, 125);"
+    }
